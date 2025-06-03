@@ -1,1 +1,1 @@
-# 50ideas
+## 50 ideas to practice python
